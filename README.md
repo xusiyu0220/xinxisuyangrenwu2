@@ -37,13 +37,9 @@ int_calc()
 |08|XMind|2|
 ## 列表  
 1.course
-
 2.virtual
-
 3.computer operation
-
 4.web
-
 5.DOS
 6.information
 7.GItHub
